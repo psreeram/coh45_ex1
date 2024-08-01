@@ -1,0 +1,5 @@
+[console_scripts]
+node_1 = coh45_ex1.node1_pub:main
+node_2 = coh45_ex1.node2_sub_pub:main
+node_3 = coh45_ex1.node3_sub:main
+

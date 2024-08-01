@@ -1,0 +1,23 @@
+[0.577s] Invoking command in '/root/ros_rblabs_coh45_ex1/src/coh45_ex1': PYTHONPATH=/root/ros_rblabs_coh45_ex1/build/coh45_ex1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/coh45_ex1 build --build-base /root/ros_rblabs_coh45_ex1/build/coh45_ex1/build install --record /root/ros_rblabs_coh45_ex1/build/coh45_ex1/install.log --single-version-externally-managed install_data
+[0.750s] running egg_info
+[0.750s] writing ../../build/coh45_ex1/coh45_ex1.egg-info/PKG-INFO
+[0.750s] writing dependency_links to ../../build/coh45_ex1/coh45_ex1.egg-info/dependency_links.txt
+[0.750s] writing entry points to ../../build/coh45_ex1/coh45_ex1.egg-info/entry_points.txt
+[0.751s] writing requirements to ../../build/coh45_ex1/coh45_ex1.egg-info/requires.txt
+[0.751s] writing top-level names to ../../build/coh45_ex1/coh45_ex1.egg-info/top_level.txt
+[0.752s] reading manifest file '../../build/coh45_ex1/coh45_ex1.egg-info/SOURCES.txt'
+[0.753s] writing manifest file '../../build/coh45_ex1/coh45_ex1.egg-info/SOURCES.txt'
+[0.753s] running build
+[0.753s] running build_py
+[0.754s] running install
+[0.754s] running install_lib
+[0.755s] running install_data
+[0.755s] running install_egg_info
+[0.757s] removing '/root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/python3.10/site-packages/coh45_ex1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.757s] Copying ../../build/coh45_ex1/coh45_ex1.egg-info to /root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/python3.10/site-packages/coh45_ex1-0.0.0-py3.10.egg-info
+[0.758s] running install_scripts
+[0.776s] Installing node_1 script to /root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/coh45_ex1
+[0.776s] Installing node_2 script to /root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/coh45_ex1
+[0.776s] Installing node_3 script to /root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/coh45_ex1
+[0.777s] writing list of installed files to '/root/ros_rblabs_coh45_ex1/build/coh45_ex1/install.log'
+[0.803s] Invoked command in '/root/ros_rblabs_coh45_ex1/src/coh45_ex1' returned '0': PYTHONPATH=/root/ros_rblabs_coh45_ex1/build/coh45_ex1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_rblabs_coh45_ex1/install/coh45_ex1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/coh45_ex1 build --build-base /root/ros_rblabs_coh45_ex1/build/coh45_ex1/build install --record /root/ros_rblabs_coh45_ex1/build/coh45_ex1/install.log --single-version-externally-managed install_data
